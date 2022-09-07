@@ -1,5 +1,7 @@
 {
   "name": "swiper-slider",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
